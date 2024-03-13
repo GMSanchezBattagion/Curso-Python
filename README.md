@@ -1,2 +1,2 @@
-# Curso-Python
-Repositorio curso python
+# Curso-Python-OK
+Repositorio curso python-Comandos basicos
