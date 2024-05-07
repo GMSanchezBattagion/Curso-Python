@@ -1,0 +1,74 @@
+{
+    "Contactos": [
+        {
+            "id": 1,
+            "nombre": "Juan",
+            "apellidos": "Perez",
+            "email": "juanperez@email.com",
+            "telefono": "123456789"
+        },
+        {
+            "id": 2,
+            "nombre": "Ana",
+            "apellidos": "Lopez",
+            "email": "analopez@email.com",
+            "telefono": "987654321"
+        },
+        {
+            "id": 3,
+            "nombre": "Carlos",
+            "apellidos": "Gonzalez",
+            "email": "carlosgonzalez@email.com",
+            "telefono": "456789123"
+        },
+        {
+            "id": 4,
+            "nombre": "Luis",
+            "apellidos": "Garcia",
+            "email": "luisgarcia@email.com",
+            "telefono": "789123456"
+        },
+        {
+            "id": 5,
+            "nombre": "Maria",
+            "apellidos": "Martinez",
+            "email": "mariamartinez@email.com",
+            "telefono": "321456987"
+        },
+        {
+            "id": 6,
+            "nombre": "Pedro",
+            "apellidos": "Sanchez",
+            "email": "pedrosanchez@email.com",
+            "telefono": "654789321"
+        },
+        {
+            "id": 7,
+            "nombre": "Sara",
+            "apellidos": "Ramirez",
+            "email": "sararamirez@email.com",
+            "telefono": "987321654"
+        },
+        {
+            "id": 8,
+            "nombre": "Lucia",
+            "apellidos": "Fernandez",
+            "email": "luciafernandez@email.com",
+            "telefono": "321654987"
+        },
+        {
+            "id": 9,
+            "nombre": "Jorge",
+            "apellidos": "Hernandez",
+            "email": "jorgehernandez@email.com",
+            "telefono": "654987321"
+        },
+        {
+            "id": 10,
+            "nombre": "Ana",
+            "apellidos": "Ramirez",
+            "email": "anaramirez@email.com",
+            "telefono": "987654321"
+        }
+    ]
+}
