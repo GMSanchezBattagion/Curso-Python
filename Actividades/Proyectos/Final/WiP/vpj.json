@@ -1,0 +1,30 @@
+
+{
+    "Clases": {
+        "Guerrero":{
+            "Caracteristicas" : {"Fuerza": 15, "Destreza": 13, "Constitucion": 14, "Inteligencia": 8, "Sabiduria": 12, "Carisma": 10},
+            "Armas":{"Espada y escudo":6, "Hacha":8},
+            "Armaduras":{"Armadura":16, "Escudo":2},
+            "HP": 10
+        },
+        "Arquero":{
+            "Caracteristicas" : {"Fuerza": 13, "Destreza": 15, "Constitucion": 12, "Inteligencia": 10, "Sabiduria": 14, "Carisma": 8},
+            "Armas":{"Arco":10, "Daga":4},
+            "Armaduras":{"Armadura":14},
+            "HP": 10
+        },
+        "Pícaro":{
+            "Caracteristicas" : {"Fuerza": 8, "Destreza": 15, "Constitucion": 12, "Inteligencia": 14, "Sabiduria": 10, "Carisma": 13},
+            "Armas":{"Ballesta de 1 mano":4, "Daga":6},
+            "Armaduras":{"Armadura":12},
+            "HP": 8
+        },
+        "Clérigo":{
+            "Caracteristicas" : {"Fuerza": 8, "Destreza": 13, "Constitucion": 14, "Inteligencia": 12, "Sabiduria": 15, "Carisma": 10},
+            "Armas":{"Bastón":4, "Simbolo sagrado":1},
+            "Armaduras":{"Armadura":12},
+            "HP": 8
+        }
+    }
+    
+}

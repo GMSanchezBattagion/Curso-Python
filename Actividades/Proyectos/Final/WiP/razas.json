@@ -1,0 +1,12 @@
+{"Razas":{
+    "Humano":{
+        "Car_ad" : {"Fuerza": 1, "Destreza": 1, "Constitucion": 1, "Inteligencia": 1, "Sabiduria": 1, "Carisma": 1}
+            },
+    "Enano": {
+        "Car_ad" : {"Fuerza": 2, "Destreza": 0, "Constitucion": 2, "Inteligencia": 0, "Sabiduria": 0, "Carisma": 0}
+            },
+    "Elfo":{
+        "Car_ad" : {"Fuerza": 0, "Destreza": 2, "Constitucion": 0, "Inteligencia": 0, "Sabiduria": 1, "Carisma": 0}
+            }
+        }
+}
